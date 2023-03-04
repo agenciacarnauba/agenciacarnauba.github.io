@@ -25,7 +25,7 @@ src: local(Mont-Heavy), url(../fonts/Mont-Heavy.otf);
 
 body {
   font-family: "Mont-Bold", Mont-Bold;
-  /* color: #fff; */
+  color: #fff;
   background-image: url("../img/BGsite1.jpg");
   background-attachment: fixed;
   background-position: center;
